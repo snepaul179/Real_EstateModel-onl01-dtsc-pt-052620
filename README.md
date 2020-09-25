@@ -12,4 +12,6 @@ Sounds good right? No.
 
 I've concluded that normalization, while it makes things look prettier, can mislead the significance of some of the features and cause biases in the model.  For future work, we can check to see other methods which can show significance between features other than normalization which might obfuscate the results. 
 
+![test](graphs1.png)
+
 
